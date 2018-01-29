@@ -634,7 +634,7 @@ div.carousel-inner .item img {
 .single_fun_facts h2 {
     color: #D7DADB;
     font-weight: 700;
-    text-transform: uppercase;
+     text-transform: uppercase;
     font-size: 35px;
     margin-top: 15px;
     margin-bottom: 1px;
@@ -649,7 +649,7 @@ div.carousel-inner .item img {
     font-size: 20px;
     margin-top: 0px;
     font-weight: 300;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: 'Source Sans Pro', sans-serif;
 }
 /*---------------------------------------
