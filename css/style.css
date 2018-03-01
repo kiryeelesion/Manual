@@ -183,7 +183,9 @@ ul
     font-size: 35px;
     font-weight: 300;
     line-height: 45px;
-    padding-top: 30px
+    padding-top: 30px;
+    font-family: 'inherit';
+
 }
 .home_text p {
     color: #fff;
@@ -644,7 +646,7 @@ div.carousel-inner .item img {
     font-size: 35px;
     margin-top: 15px;
     margin-bottom: 1px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'inherit', sans-serif;
 }
 .single_fun_facts h2 span {
     font-weight: 300;
